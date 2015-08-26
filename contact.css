@@ -1,0 +1,64 @@
+<style>
+
+
+
+body{
+  background:white;
+}
+
+
+div{
+    font-size: 20px;
+    word-spacing: 30px;
+    font-family: Helvetica;
+    letter-spacing:.1em;
+    text-decoration: none;
+    margin-top: 80px; 
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: #330099;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+a:visited {
+  opacity: 0.6;
+}
+
+
+.nav {
+  font-size: 36px;
+  word-spacing: 5px;
+  font-family: Century Gothic;
+  letter-spacing:.4em;
+  margin-left: 190px;
+}
+
+
+.imgcontainer {
+  text-align: center;
+  margin-top: 140px;
+}
+
+#picture1 {
+   margin-top: 30px;
+ }
+
+
+
+
+p{
+  margin-top: 60px;
+  text-align: center;
+  font-size: 28px;
+  font-family: Helvetica;
+}
+
+
+
+</style>
